@@ -1,4 +1,4 @@
-class Ssha < Formula
+class Ezgif < Formula
   desc "Optimized FFMPEG wrapper for creating gifs."
   homepage "https://github.com/thedannywahl/ezgif"
   url "https://github.com/thedannywahl/ezgif/archive/refs/tags/1.0.0.zip"
